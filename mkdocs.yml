@@ -1,0 +1,34 @@
+site_name: UoA Discrete Systems Course
+
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+
+theme: 
+  name: material
+  logo: assets/logo.svg
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+  palette:
+    primary: teal
+nav: 
+  - Home: index.md
+  - Lecture: lecture.md 
+  - Chapters:
+    - 'Chapter 01: Sets': 
+      - 'Introduction of Sets': chapters/c01/1_sets.md                        
+  - Resource:
+    - Books : Resource/1_books.md
+
+
+plugins:
+  - search
