@@ -7,6 +7,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - footnotes
+  - tables
 
 theme: 
   name: material
@@ -26,9 +27,9 @@ nav:
   - Chapters:
     - 'Chapter 01: Sets': 
       - 'Introduction of Sets': chapters/c01/1_sets.md                        
-  - Resource:
-    - Books : Resource/1_books.md
-
-
+  - Resource: resource.md
+  - Notes and FAQ: faq.md
+  - 'LMS (lecture)': 'https://elms.u-aizu.ac.jp/course/view.php?id=5221'
+  - 'LMS (assigment submission)': 'https://elms.u-aizu.ac.jp/course/view.php?id=5222'
 plugins:
   - search

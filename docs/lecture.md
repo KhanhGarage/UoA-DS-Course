@@ -1,17 +1,17 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+hide:
+  - navigation
+  - toc
+---
+# Lecture
+| Chapter  | Reading | Handout |
+| -------- | ---- | ---- |
+| Chapter 1: Introduction | | |
+| Chapter 2: Sets | [PDF](../assets/Lec-12-Set.pdf) | |
+| Chapter 3: Logic |[PDF](../assets/Lec-34-Logic.pdf) | |
+| Chapter 4: Relations |  [PDF](../assets/Lec-56-Relations.pdf) | |
+| Chapter 5: Mapping/Functions | [PDF](../assets/Lec-78-Functions.pdf) | |
+| Chapter 6: Counting | [PDF](../assets/Lec-9-Counting.pdf) | |
+| Chapter 7: Integers | [PDF](../assets/Lec-10-Integers.pdf) | |
+| Chapter 8: Graph I: Graph Theory | [PDF](../assets/Lec-1112-GraphTheory.pdf) | |
+| Chapter 9: Graph II: Directed Graph | [PDF](../assets/Lec-1314-DirectedGraph.pdf) | |
