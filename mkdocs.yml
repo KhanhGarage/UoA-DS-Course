@@ -8,6 +8,13 @@ markdown_extensions:
   - pymdownx.superfences
   - footnotes
   - tables
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 theme: 
   name: material
@@ -25,8 +32,18 @@ nav:
   - Home: index.md
   - Lecture: lecture.md 
   - Chapters:
+    - 'Chapter 00: Introduction': chapters/c00/1_intro.md 
     - 'Chapter 01: Sets': 
-      - 'Introduction of Sets': chapters/c01/1_sets.md                        
+      - 'Introduction of Sets': chapters/c01/1_sets.md     
+      - 'Problems':                   
+        - 'Problem 1.1': chapters/c01/2_prob-1.1.md    
+        - 'Problem 1.3': chapters/c01/2_prob-1.3.md    
+        - 'Problem 1.4': chapters/c01/2_prob-1.4.md    
+        - 'Problem 1.5': chapters/c01/2_prob-1.5.md    
+    - 'Chapter 02: Logic':  
+      - 'Introduction of Logic': chapters/c02/1_logic.md     
+
+
   - Resource: resource.md
   - Notes and FAQ: faq.md
   - 'LMS (lecture)': 'https://elms.u-aizu.ac.jp/course/view.php?id=5221'

@@ -5,7 +5,7 @@
 ???+ question
     ### Q0. What is the language for the class?
 
-A0. The class and exercise will be in English. Some TAs may speak Japanese.
+A0. The class and exercise will be in English. 
 All exercises and examinations are in English. Please write your answer in English.
 Since this is Mathematics, you can write down the equation and final answer.
 
@@ -33,27 +33,30 @@ A3. Yes, you can.
 ???+ question
     ### Q4. Can I submit my assigment late?
 
-A4. Before we release the mock answer, your grade for the assigment will be reduce by 30% if you submit late.
+A4. Before we release the mock answer, your grade for the assigment will be reduce by 30% if you submit late (after the deadline on LMS/Moodle).
 If we already release the mock answer, you cannot get any grade.
 
 ???+ question
     ### Q5. Where do I submit my assignment and what if I cannot submit due to technical difficulties?
 
 A5. Please submit on LMS (Moodle). If you cannot login, please contact SAD or SSB.
-If you can login but cannot submit, please send email to our TA with:
+If you can login but cannot submit, please send email to our TAs and instructors with:
 
-- Your assigment.
+- Your assigment answer.
 - The screenshot of error.
 
-Without them, we will consider yours as late submission (30% grade reduction).
+Please submit before the deadline. If you submit after the deadline, we will consider yours as late submission (30% grade reduction).
 
 
 ???+ question
     ### Q6. What format and how should I submit my assigment?
 
-A6. Please scan your answer and submit PDF file in correct order.
-If the TA/instructor fails to read the answer, your grade will be 0 (zero) automatically.
-Do know use webcame to take the screenshot of the example. If you dont have any scanning devices (scanner or mobilephone), please submit the physical copy (paper) during the exercise period.
+A6. Please scan your answer and submit PDF file in correct order if there are multiple pages.
+If the TA/instructor fails to read the answer, your grade will be automatically 0 (zero) .
+DONOT use webcame to take the screenshot of the example. If you dont have any scanning devices (scanner or mobilephone), please submit the physical copy (paper) during the exercise period.
+
+???+ note
+    We recommend to use CamScanner [https://www.camscanner.com/](https://www.camscanner.com/) on your Andriod/iOS devices to scan.
 
 ???+ question
     ### Q7. I cannot scan my answer, what should I do?
