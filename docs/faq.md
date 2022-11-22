@@ -1,5 +1,8 @@
 # Notes and FAQs
 
+???+ warning
+    Please check the information about the class in the [top page](index.md). If you still cannot find the information
+
 ## Language
 
 ???+ question
@@ -7,7 +10,10 @@
 
 A0. The class and exercise will be in English. 
 All exercises and examinations are in English. Please write your answer in English.
-Since this is Mathematics, you can write down the equation and final answer.
+Since this is a Mathematics course, you can write down the equation and final answer.
+
+???+ note
+    If you are not confident about your English, please write down the final answer only.
 
 
 ## Examination
@@ -85,12 +91,12 @@ You can write email if needed.
 ???+ question
     ### Q11. I have a question about the class.
 
-A11. Please contact the instructors/TAs via email (see [top page](index.md)). If you want to meet in person, please contact us in advance.
+A11. Please contact the instructors/TAs via email (see [top page](index.md)). If you want to meet us in person, please contact us in advance.
 
 ## Others
 
 ???+ question
     ### Do I need to program somethings in this class?
 
-Yes. Some exercise require you to program.
+Yes. Some exercises require you to program. We accept any programing language (Java/Python/C++/...)
 

@@ -27,10 +27,26 @@ theme:
     - toc.integrate
     - navigation.top
   palette:
-    primary: teal
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+
 nav: 
   - Home: index.md
-  - Lecture: lecture.md 
+  - Lectures: lecture.md 
   - Chapters:
     - 'Chapter 00: Introduction': chapters/c00/1_intro.md 
     - 'Chapter 01: Sets': 
@@ -48,5 +64,10 @@ nav:
   - Notes and FAQ: faq.md
   - 'LMS (lecture)': 'https://elms.u-aizu.ac.jp/course/view.php?id=5221'
   - 'LMS (assigment submission)': 'https://elms.u-aizu.ac.jp/course/view.php?id=5222'
+  - Contact: contact.md
 plugins:
   - search
+
+
+extra:
+  generator: false
